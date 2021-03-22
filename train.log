@@ -1,2 +1,60 @@
 Epoch: 1
 Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.693, Validation Loss: 0.652
+Train Dices: 0.719, Validation Dices 0.835
+
+Epoch: 2
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.640, Validation Loss: 0.632
+Train Dices: 0.879, Validation Dices 0.910
+
+Epoch: 3
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.628, Validation Loss: 0.625
+Train Dices: 0.928, Validation Dices 0.939
+
+Epoch: 4
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.623, Validation Loss: 0.622
+Train Dices: 0.948, Validation Dices 0.953
+
+Epoch: 5
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.621, Validation Loss: 0.621
+Train Dices: 0.958, Validation Dices 0.961
+
+Epoch: 6
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.620, Validation Loss: 0.620
+Train Dices: 0.965, Validation Dices 0.966
+
+Epoch: 7
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.619, Validation Loss: 0.619
+Train Dices: 0.970, Validation Dices 0.970
+
+Epoch: 8
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.618, Validation Loss: 0.618
+Train Dices: 0.973, Validation Dices 0.973
+
+Epoch: 9
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.618, Validation Loss: 0.618
+Train Dices: 0.976, Validation Dices 0.975
+
+Epoch: 10
+Warning: No valid output stream.
+Warning: No valid output stream.
+Train Loss: 0.617, Validation Loss: 0.617
+Train Dices: 0.978, Validation Dices 0.977
+
